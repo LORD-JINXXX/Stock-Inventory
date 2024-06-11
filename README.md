@@ -17,24 +17,15 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/LORD-JINXXX/Stock-Inventory.git
-
-
-2. Navigate to the project directory:
-   cd stock-inventory
-3. Install the dependencies:
-
-    npm install
-
-
-1. Clone the repository:
-
     ```bash
-    git clone https://github.com/yourusername/news-app.git
-    cd news-app
+    git clone https://github.com/LORD-JINXXX/Stock-Inventory.git
     ```
+2. Navigate to the project directory:
+   ```bash
+    cd stock-inventory
+    ```   
 
-2. Install the dependencies:
+3. Install the dependencies:
 
     ```bash
     npm install
@@ -44,10 +35,12 @@
 
 
 ## Usage
-#### Start the development server:
+Start the development server:
+      ```bash
+    npm start
+    ```
 
-Copy code
-npm start
+
 #### Open the browser and go to http://localhost:3000 to access the website.
 
 #### Log in with your credentials to access the dashboard.
