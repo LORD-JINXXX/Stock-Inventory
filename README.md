@@ -14,18 +14,19 @@
 #### Order Management: Orders can be added to the activated orders tab and later moved to the completed orders tab when they are completed.
 
 ## Installation
-#### 1)Clone the repository:
 
-Copy code
-git clone https://github.com/LORD-JINXXX/Stock-Inventory.git
-#### 2)Navigate to the project directory:
+1. Clone the repository:
 
-Copy code
-cd stock-inventory
-#### 3)Install dependencies:
+   git clone https://github.com/LORD-JINXXX/Stock-Inventory.git
 
-Copy code
-npm install
+
+2. Navigate to the project directory:
+   cd stock-inventory
+3. Install the dependencies:
+
+    npm install
+
+
 
 ## Usage
 #### Start the development server:
@@ -42,3 +43,8 @@ npm start
 
 ## Contributing
 #### Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+#### Fork the repository.
+#### Create a new branch: git checkout -b feature-branch-name.
+#### Make your changes and commit them: git commit -m 'Add some feature'.
+#### Push to the branch: git push origin feature-branch-name.
+#### Submit a pull request.
