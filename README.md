@@ -27,6 +27,21 @@
     npm install
 
 
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/news-app.git
+    cd news-app
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+   
+
+
 
 ## Usage
 #### Start the development server:
