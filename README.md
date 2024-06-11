@@ -37,9 +37,9 @@
 ## Usage
 Start the development server:
 
-    ```bash
+   
     npm start
-    ```
+    
 
 
 #### Open the browser and go to http://localhost:3000 to access the website.
